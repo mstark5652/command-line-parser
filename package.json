@@ -1,0 +1,21 @@
+{
+    "name": "cli-parser",
+    "productName": "Intouch Command Line Parser",
+    "version": "0.1.0",
+    "description": "Module to parse command line arguments.",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js --debug release -ab -a -edc"
+    },
+    "bin": {
+        "cli_parser": "cli.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "."
+    },
+    "author": "mstark",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "devDependencies": {},
+    "dependencies": {}
+}
