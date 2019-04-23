@@ -2,8 +2,8 @@
 Utility to parser command line arguments in a simple but effective way. This module has no external dependencies and was build to be straight forward with no extra frills.
 
 ## Install
-Using Intouch's npm registry
-`npm install --save command-line-parser`
+Using npm with git
+`npm install --save mstark5652/command-line-parser#0.0.1`
 
 ## Types of Arguments
 * values - `node index.js --srcDir="./src/"` argument with label that provides a value to be passed through
