@@ -3,7 +3,7 @@ Utility to parser command line arguments in a simple but effective way. This mod
 
 ## Install
 Using npm with git
-`npm install --save mstark5652/command-line-parser#0.0.1`
+`npm install --save mstark5652/command-line-parser`
 
 ## Types of Arguments
 * values - `node index.js --srcDir="./src/"` argument with label that provides a value to be passed through
@@ -52,3 +52,9 @@ console.log(options);
   "debug": true
 }
 ```
+
+
+## License
+MIT License - See LICENSE.md
+
+
