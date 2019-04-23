@@ -7,12 +7,9 @@
     "scripts": {
         "test": "node test.js --debug release -ab -a -edc"
     },
-    "bin": {
-        "cli_parser": "cli.js"
-    },
     "repository": {
         "type": "git",
-        "url": "."
+        "url": "git+https://github.com/mstark5652/command-line-parser.git"
     },
     "author": "mstark",
     "license": "SEE LICENSE IN LICENSE.md",
