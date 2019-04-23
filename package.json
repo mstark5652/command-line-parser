@@ -1,6 +1,6 @@
 {
-    "name": "cli-parser",
-    "productName": "Intouch Command Line Parser",
+    "name": "command-line-parser",
+    "productName": "Command Line Parser",
     "version": "0.1.0",
     "description": "Module to parse command line arguments.",
     "main": "index.js",

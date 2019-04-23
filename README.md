@@ -3,7 +3,7 @@ Utility to parser command line arguments in a simple but effective way. This mod
 
 ## Install
 Using Intouch's npm registry
-`npm install --save @its/cli-parser`
+`npm install --save command-line-parser`
 
 ## Types of Arguments
 * values - `node index.js --srcDir="./src/"` argument with label that provides a value to be passed through
@@ -13,7 +13,7 @@ Using Intouch's npm registry
 
 ## Usage
 ```js
-var parseArgs = require("@its/cli-parser");
+var parseArgs = require("command-line-parser");
 var args = parseArgs(process.argv);
 console.log(args);
 ```
@@ -38,7 +38,7 @@ var options = parseArgs();
 console.log(options);
 {
   "executor": "C:\\Program Files\\nodejs\\node.exe",
-  "script": "C:\\Users\\michael.stark\\dev\\its-cli-parser\\test.js",
+  "script": "C:\\Users\\michael.stark\\dev\\command-line-parser\\test.js",
   "flags": [
     "a",
     "b",
@@ -52,5 +52,3 @@ console.log(options);
   "debug": true
 }
 ```
-  
-### Copyright 2019. Intouch Solutions. All Rights Reserved.

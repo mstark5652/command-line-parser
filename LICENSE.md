@@ -1,1 +1,1 @@
-## Copyright 2019. Intouch Solutions. All Rights Reserved.
+MIT
