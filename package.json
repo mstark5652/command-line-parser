@@ -1,7 +1,7 @@
 {
   "name": "command-line-parser",
   "productName": "Command Line Parser",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Module to parse command line arguments.",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "devDependencies": {
     "mocha": "^6.2.0",
     "nyc": "^14.1.1",
-    "standard": "^13.1.0"
+    "standard": "^14.1.0"
   },
   "engines": {
     "node": "10.16.1"

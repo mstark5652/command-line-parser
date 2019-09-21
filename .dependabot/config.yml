@@ -10,3 +10,6 @@ update_configs:
     default_labels:
     - "security"
     - "dependabot"
+    allowed_updates:
+      - match:
+          update_type: "security"
