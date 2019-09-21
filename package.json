@@ -1,7 +1,7 @@
 {
   "name": "command-line-parser",
   "productName": "Command Line Parser",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Module to parse command line arguments.",
   "main": "index.js",
   "scripts": {
