@@ -20,15 +20,11 @@
     "nyc": "^14.1.1",
     "standard": "^14.1.0"
   },
-  "engines": {
-    "node": "12.10.0"
-  },
   "nyc": {
     "check-coverage": true,
     "branches": 100,
     "lines": 100,
     "functions": 100,
     "statements": 100
-  },
-  "dependencies": {}
+  }
 }
