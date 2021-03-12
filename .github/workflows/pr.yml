@@ -3,8 +3,7 @@ name: Node Unit Test and Lint
 on:
   pull_request:
     branches:
-      - master
-      - develop
+      - main
 
 jobs:
   build:
