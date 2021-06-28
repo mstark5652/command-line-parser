@@ -1,7 +1,7 @@
 {
   "name": "st-cl-parser",
   "productName": "Command Line Parser",
-  "version": "0.5.3",
+  "version": "0.6.0",
   "description": "Module to parse command line arguments.",
   "main": "index.js",
   "scripts": {
