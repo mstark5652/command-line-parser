@@ -16,7 +16,7 @@
   "author": "mstark",
   "license": "SEE LICENSE IN LICENSE.md",
   "devDependencies": {
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "nyc": "^14.1.1",
     "standard": "^14.1.0"
   },
